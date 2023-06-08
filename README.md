@@ -1,5 +1,8 @@
 # Auto Encoder Representations Obtained to Build Image Codec (AEROBIC)
 
+![](./resources/images/encoder.png)
+![](./resources/images/decoder.png)
+
 ## Structure
 * [`notebooks`](./notebooks) ‒ notebooks with experimets and analysis;
 * [`samples`](./samples) ‒ compressed/decompressed examples;
